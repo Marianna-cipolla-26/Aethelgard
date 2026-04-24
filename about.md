@@ -1,13 +1,3 @@
-# CHIMERA Name
+# Aethelgard
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
-
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+il nome vuole indicare uno spirito nobile e un custode.  Questa figura ha origine nel cuore di un'immensa foresta pluviale incontaminata. Aethelgard non è nato da genitori comuni, ma dalla fusione di quattro antichi spiriti animali che si unirono per proteggere questo fragile ecosistema: la lealtà e la giocosità del Cane d'Oro, la maestosità e la saggezza dei Re dei Boschi, l'inarrestabile forza della Grande Bestia Grigia e la vibrante agilità dei Signori dei Cieli.  Aethelgard possiede la testa amichevole e sempre allegra di un Labrador dorato, con occhi intelligenti che brillano di una gioia contagiosa. Da questa si ergono due corna di cervo ramificate, come antichi talismani di saggezza boschiva. Ma la sua caratteristica più sorprendente è una splendida coppia di ali piumate, dei colori dei pappagalli macao, rosso fuoco, giallo sole e blu intenso, che si aprono per portarlo in volo tra gli alberi. Infine, si muove su due gambe, ma i suoi piedi sono le possenti, conferendogli una stabilità incrollabile. Indossa una semplice tunica grigia, decorata con due rose rosse, simbolo del suo amore per la fioritura della vita. Aethelgard è il Custode delle Fronde Alte. Mentre la maggior parte dei guardiani della foresta si occupa di ciò che accade a terra, lui è il protettore dell'aria e della chioma degli alberi. Utilizza le sue ali colorate per pattugliare le altezze, scacciando bracconieri o assicurandosi che gli uccelli migratori trovino rifugio sicuro. Quando minacce più grandi, come bulldozer o incendi, si avvicinano al livello del suolo, Aethelgard discende. Con un balzo potente, atterra silenziosamente sulle sue zampe di elefante e, usando la sua forza e la sua lealtà, fa scattare il suo istinto protettivo da Labrador. Non attacca per uccidere, ma usa la sua forza per deviare le macchine, o il suo muso amichevole per placare l'ostilità di un essere umano che ha perso la strada, ricordando loro la bellezza della natura che stanno per distruggere. Aethelgard non è solo un guardiano, ma anche un simbolo di unione: una testimonianza vivente che quando diversi poteri si fondono, creano qualcosa di infinitamente più forte, più intelligente e più gentile di quanto ciascuno potesse essere da solo.
